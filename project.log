@@ -1,0 +1,4 @@
+2024/07/22 11:20:31 main.go:23: Server started on port 6060
+2024/07/22 11:23:03 main.go:23: Server started on port 6060
+2024/07/22 11:23:11 auth.go:51: Failed to create user: pq: duplicate key value violates unique constraint "users_username_key"
+2024/07/22 11:23:31 auth.go:37: Validation error: Key: 'Credentials.Password' Error:Field validation for 'Password' failed on the 'min' tag

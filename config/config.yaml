@@ -1,0 +1,6 @@
+database:
+  host: "localhost"
+  user: "postgres"
+  dbname: "jwt_auth"
+  password: "1q2w3e4r5t"
+  sslmode: "disable"
