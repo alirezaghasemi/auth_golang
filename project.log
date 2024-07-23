@@ -10,3 +10,6 @@
 2024/07/22 14:40:18 auth.go:171: User updated successfully: alireza5
 2024/07/22 14:40:49 auth.go:61: User registered successfully: alireza2
 2024/07/22 14:41:14 auth.go:183: User deleted successfully: alireza2
+2024/07/23 08:08:43 main.go:23: Server started on port 6060
+2024/07/23 08:11:20 main.go:23: Server started on port 6060
+2024/07/23 08:11:23 headers.go:14: X-API-Key header is required
